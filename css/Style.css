@@ -1,0 +1,112 @@
+body{
+  background: #D8C7B1;
+}
+.main{
+  width: 1000px;
+  height: 900px;
+  background: rgb(231, 210, 210);
+  box-sizing: border-box;
+margin-left: 500px;
+
+}
+pre{
+  display: inline-block;
+}
+.Header{
+
+  width: 1000px;
+  height: 150px;
+  background-image: url(../img/backgruand.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.Header img{
+  float: right;
+  height: inherit;
+  width: 200px;
+}
+
+.Menu {
+  width: 145px;
+ height: 300px;
+  background: rgb(250, 250, 250);
+  margin-top: 15px;
+  border: solid;
+ box-sizing: border-box;
+  float: left;
+  
+  
+
+
+
+
+}
+.Undrline{
+  width: 370px;
+  padding-top: 30px;
+ float: left;
+  padding-left: 30px;
+  border-bottom : solid;
+  box-sizing: border-box;
+  margin-left: 20px;
+  padding-top: 20px;
+  margin-right: 200px;
+}
+.Lorem {
+
+max-width:600px ;
+
+  box-sizing: border-box;
+ 
+   padding-left: 30px;
+  
+
+   margin-left: 20px;
+   padding-top: 20px
+}
+.Shapes{
+  width: 145px;
+height: 145px;
+  background: rgb(255, 255, 255);
+ 
+  border: solid;
+
+box-sizing: border-box;
+float: left;
+
+
+  
+}
+
+  .Color{
+    height: 30px;
+  
+    
+  }
+  .Color a{
+    color: #000;
+  }
+
+
+
+
+
+
+
+
+
+.Lore{
+  width: 370px;
+
+ padding-right: 100px;
+
+  box-sizing: border-box;
+
+
+
+   float: left;
+}
+
+
+
